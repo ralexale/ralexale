@@ -1,5 +1,7 @@
 ### Hola, bienvendido a mi perfil 👋✌
 ![descr](https://i.ibb.co/5rdKXrM/japanenes-66ff.png&ipo=images)
+
+## stast de programación 😎
 ![Stats para cold-briu](https://github-readme-stats.vercel.app/api?username=ralexale&show_icons=&show_icons=true&theme=synthwave)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ralexale&show_icons=&show_icons=true&theme=synthwave)
