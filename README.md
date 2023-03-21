@@ -1,5 +1,11 @@
 ### Hola, bienvendido a mi perfil 👋✌
-![descr](https://i.ibb.co/5rdKXrM/japanenes-66ff.png&ipo=images)
+
+<div  align='center'>
+<img src="https://media.giphy.com/media/BHCFcibksBxAV0FDoL/giphy.gif" width="300px" /> 
+  <img src="https://i.ibb.co/5rdKXrM/japanenes-66ff.png&ipo=images" height=300px />
+</div>
+
+
 
 ## stast de programación 😎
 ![Stats para cold-briu](https://github-readme-stats.vercel.app/api?username=ralexale&show_icons=&show_icons=true&theme=synthwave)
