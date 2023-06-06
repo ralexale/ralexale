@@ -3,7 +3,7 @@
 
 <div  align='center'>
 <img src="https://media.giphy.com/media/BHCFcibksBxAV0FDoL/giphy.gif" width="300px" /> 
-  <img  src="https://i.ibb.co/5rdKXrM/japanenes-66ff.png&ipo=images" height=300px  />
+
 </div>
 
 
