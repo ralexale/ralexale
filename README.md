@@ -1,11 +1,24 @@
-### Hola, bienvendido a mi perfil 👋✌
+### I'm Hector Montaña, welcome to my profile. 👋✌
 
+
+<p><em>Software Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" align='center'> 
+</em></p>
 
 <div  align='center'>
+  <img src="https://i.ibb.co/fk47ssn/Intersect.png" width="300px" /> 
 <img src="https://media.giphy.com/media/BHCFcibksBxAV0FDoL/giphy.gif" width="300px" /> 
 
 </div>
+<h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2> 
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,javascript,ts,css,html,redux,styledcomponents,nextjs,nodejs,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,threejs,mysql,vscode,blender,linux,github,figma" />
+    <img src="https://skillicons.dev/icons?i=postgres,py" />
+  </a>
+</p>
+<hr>
 
 
 ## stast de programación 😎
