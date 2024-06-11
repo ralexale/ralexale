@@ -4,10 +4,14 @@
 <p><em>Software Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" align='center'> 
 </em></p>
 
-<div  align='center'>
-  <img src="https://i.ibb.co/fk47ssn/Intersect.png" width="300px" /> 
-<img src="https://media.giphy.com/media/BHCFcibksBxAV0FDoL/giphy.gif" width="300px" /> 
 
+
+
+
+
+<div  align='center'>
+  <img src="https://github.com/ralexale/ralexale/assets/59479109/242dfe32-eba4-4b4d-ba23-32a727ca0ee6" width="300px" heigh="300px" /> 
+  <img src="https://media.giphy.com/media/BHCFcibksBxAV0FDoL/giphy.gif" width="300px" /> 
 </div>
 <h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2> 
 
