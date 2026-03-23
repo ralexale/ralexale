@@ -9,17 +9,18 @@
 
 
 
+
 <div  align='center'>
-  <img src="https://github.com/ralexale/ralexale/assets/59479109/242dfe32-eba4-4b4d-ba23-32a727ca0ee6" width="300px" heigh="300px" /> 
+  <img src="https://github.com/user-attachments/assets/957a0bd6-889f-4a2f-8436-d9f455cdfc74" width="300px" heigh="300px" /> 
   <img src="https://media.giphy.com/media/BHCFcibksBxAV0FDoL/giphy.gif" width="300px" /> 
 </div>
 <h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2> 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,javascript,ts,css,html,redux,styledcomponents,nextjs,nodejs,tailwind" /><br>
-    <img src="https://skillicons.dev/icons?i=mongodb,express,react,threejs,mysql,vscode,blender,linux,github,figma" />
-    <img src="https://skillicons.dev/icons?i=postgres,py" />
+    <img src="https://skillicons.dev/icons?i=git,ts,redux,nextjs,nodejs,tailwind,nest,c#" /><br>
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,threejs,mysql,vscode,blender,linux,github,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=postgres,py,java,spring,vue,net" />
   </a>
 </p>
 <hr>
